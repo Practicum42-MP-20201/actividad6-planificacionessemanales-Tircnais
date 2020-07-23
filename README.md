@@ -16,13 +16,24 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 - **Hito más importante de la semana**: Registro del metadata del recurso en las tablas correspondientes.
 - **Actividades logradas**: Logica del procesamiento terminada, Registro de datos listo, Barra de progreso lista, Triplestore de Digcomp validado y listo.
 
-## Presentación de avances: Planificación semana 14: 13 al 19 de julio 2020
+## Documentación al día: Planificación semana 14: 13 al 19 de julio 2020
 
 ![semana 14](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-Tircnais/blob/master/semana_14.PNG "Planificación semana 14")
 
-- **Hito más importante de la semana**: Exposición del trabajo al tribunal/Presentación de la recolección de OER
-- **Actividades logradas**: Presentación de recolección de OER.
-- **Actividades progreso**: Presentación sobre avances del TT, Carga del Triplestore de Digcomp en un interprete.
+- **Hito más importante de la semana**: Documentos para la defensa
+- **Actividades logradas**: Documentación al día, Capítulo 3.
 
-Y así seguiremos llenando hasta la semana 16.
-Exitos!
+## Presentación de avances: Planificación semana 15: 20 al 26 de julio 2020
+
+![semana 15](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-Tircnais/blob/master/semana_15.PNG "Planificación semana 15")
+
+- **Hito más importante de la semana**: Exposición del trabajo al tribunal
+- **Actividades logradas**: Visualización del Triplestore de Digcomp, Triplestore de OER
+- **Actividades en progresos**: Pruebas sobre el Triplestore de OER, Generando el modelo para el reconocimiento de entidades, Demostración del Sistema de Recolección de OER
+
+## Presentación del Sistema de Recolección: Planificación semana 16: 27 al 2 de agosto 2020
+
+![semana 16](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-Tircnais/blob/master/semana_16.PNG "Planificación semana 16")
+
+- **Actividades en progreso**: Modelo de Entidades OER
+- **Actividades pendientes**: Demostración del Sistema de Recolección de OER
