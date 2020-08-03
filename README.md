@@ -37,3 +37,7 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 
 - **Actividades en progreso**: Modelo de Entidades OER
 - **Actividades pendientes**: Demostración del Sistema de Recolección de OER
+
+## Planificación: Planificación semana: 3 de agosto al 9 de septiembre 2020
+
+![semana](https://github.com/Practicum42-MP-20201/actividad6-planificacionessemanales-Tircnais/blob/master/PlanificacionPracticum42-final.xlsx "Planificación")
